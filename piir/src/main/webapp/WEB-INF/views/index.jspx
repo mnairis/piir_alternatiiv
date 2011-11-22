@@ -9,6 +9,8 @@
     </h3>
     <p>
       <spring:message code="welcome_text" />
+      
+      GithHub Test nr. 387.. Margus Nairis
     </p>
   </util:panel>
 </div>
